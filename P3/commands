@@ -1,0 +1,4 @@
+python3 kmeanspp.py wine.data 59 1000 kmeansop
+python3 lloyd.py wine.data 101 948  lloydop
+python3 spectral.py wine.data 7 9 spectralop
+python3 qerror.py wine.data wine.labels

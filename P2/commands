@@ -1,0 +1,44 @@
+python3 scatter1.py iris.data iris.labels scatter1_iris
+python3 scatter1.py wine.data wine.labels scatter1_wine
+python3 scatter2.py iris.data iris.labels scatter2_iris
+python3 scatter2.py wine.data wine.labels scatter2_wine
+python3 scatter3.py iris.data iris.labels scatter3_iris
+python3 scatter3.py wine.data wine.labels scatter3_wine
+python3 scatter4.py iris.data iris.labels scatter4_iris
+python3 scatter4.py wine.data wine.labels scatter4_wine
+python3 scatter5.py iris.data iris.labels scatter5_iris
+python3 scatter5.py wine.data wine.labels scatter5_wine
+python3 scatter6.py iris.data iris.labels scatter6_iris
+python3 scatter6.py wine.data wine.labels scatter6_wine
+python3 scatter7.py iris.data iris.labels scatter7_iris
+python3 scatter7.py wine.data wine.labels scatter7_wine
+python3 scatter8.py iris.data iris.labels scatter8_iris
+python3 scatter8.py wine.data wine.labels scatter8_wine
+python3 selection1.py iris.data iris.labels selection1_iris
+python3 selection1.py wine.data wine.labels selection1_wine
+python3 selection2.py iris.data iris.labels selection2_iris
+python3 selection2.py wine.data wine.labels selection2_wine
+
+
+
+python3 plot.py scatter1_iris iris.labels
+python3 plot.py scatter2_iris iris.labels
+python3 plot.py scatter3_iris iris.labels
+python3 plot.py scatter4_iris iris.labels
+python3 plot.py scatter5_iris iris.labels
+python3 plot.py scatter6_iris iris.labels
+python3 plot.py scatter7_iris iris.labels
+python3 plot.py scatter8_iris iris.labels
+python3 plot.py selection1_iris iris.labels
+python3 plot.py selection2_iris iris.labels
+
+python3 plot.py scatter1_wine wine.labels
+python3 plot.py scatter2_wine wine.labels
+python3 plot.py scatter3_wine wine.labels
+python3 plot.py scatter4_wine wine.labels
+python3 plot.py scatter5_wine wine.labels
+python3 plot.py scatter6_wine wine.labels
+python3 plot.py scatter7_wine wine.labels
+python3 plot.py scatter8_wine wine.labels
+python3 plot.py selection1_wine wine.labels
+python3 plot.py selection2_wine wine.labels
